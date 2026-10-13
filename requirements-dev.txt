@@ -1,0 +1,4 @@
+# Browser integration tests only; the static application has no Python runtime dependencies.
+playwright==1.62.0
+reportlab==4.4.9
+pypdf==6.10.0
